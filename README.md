@@ -1,0 +1,1 @@
+This project aims to detect hate speech in text data using machine learning techniques. Hate speech detection is crucial for moderating online content, ensuring safer digital spaces, and preventing harmful communication.
